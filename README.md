@@ -38,7 +38,6 @@ Each topic in this tutorial is contained in its own Markdown file for easy navig
 
 | Section | Description |
 |-------|-------------|
-| [**00-vpn.md**](./00-vpn.md) | Connecting to the UW VPN (required for Open OnDemand) |
 | [**01-logging-in.md**](./01-logging-in.md) | Logging in to Hyak (Klone) via SSH |
 | [**02-filesystem.md**](./02-filesystem.md) | Home directory, storage locations, and navigating the filesystem |
 | [**03-user-tools.md**](./03-user-tools.md) | Introduction to Hyak user tools |
