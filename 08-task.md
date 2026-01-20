@@ -14,7 +14,10 @@
 
 ## 0. Preparation
 
-If you haven't already, follow the instructions in [01-logging-in](./01-logging-in.md) to log in to Hyak Klone and set up your working directory for the following exercise [02-filesystem - tutorial working directory](./02-filesystem.md#scrubbed-storage--our-tutorial-workspace).
+Before this exercise: 
+* [Ensure you have Hyak Klone access](./00-prereqs)
+* [Log in to Hyak Klone](./01-logging-in.md)
+* [Set up your working directory](./02-filesystem.md#scrubbed-storage--our-tutorial-workspace)
 
 ## 1. Start an Interactive Job
 
