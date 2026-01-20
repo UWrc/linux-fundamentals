@@ -2,17 +2,17 @@
 
 In this section, we will review more commands to get you comfortable doing basic things on Hyak. Some of the data and exercises for this tutorial were sampled from [<ins>**The Unix Shell by Software Carpentry**</ins>](https://swcarpentry.github.io/shell-novice/index.html), but have been tailored to fit most Hyak users. Sampled materials are under the Copyright of Software Carpentry and are made available under the Creative Commons Attribution license (CC BY 4.0).
 
-We'll use some commands we already know like `pwd`, `cd`, and `ls`, but we'll cover these commands and concepts for the first time: 
-* [`wget`  - web get](./06-basic-commands.md#wget-or-web-get-to-download-data-from-a-webpage)
-* [`../` - relative path](./06-basic-commands.md#use-relative-paths-with-)
-* [`mkdir` - make directory](./06-basic-commands.md#mkdir-or-make-directory-to-make-an-empty-directory)
-* [`nano` - for editing files](./06-basic-commands.md#edit-files-with-nano)
-* [`cat` - concatenate](./06-basic-commands.md#cat-or-concatenate-a-file-to-print-its-contentss)
-* [`head`, `tail`, `more`, `less` - viewing options](./06-basic-commands.md#view-with-head-tail-more-less)
-* [`cp` - copy](./06-basic-commands.md#cp-or-copy-files)
-* [`mv` - move](./06-basic-commands.md#mv-or-move-file-to-a-new-name-rename)
-* [`rm` - remove](./06-basic-commands.md#rm-or-remove-a-file)
-* [`touch` - create a file](./06-basic-commands.md#create-an-empty-file-with-touch)
+We'll use some commands you already know like `pwd`, `cd`, and `ls`, but we'll cover these commands and concepts for the first time: 
+* [`wget`  - web get](#wget-or-web-get-to-download-data-from-a-webpage)
+* [`../` - relative path](#use-relative-paths-with-)
+* [`mkdir` - make directory](#mkdir-or-make-directory-to-make-an-empty-directory)
+* [`nano` - for editing files](#edit-files-with-nano)
+* [`cat` - concatenate](#cat-or-concatenate-a-file-to-print-its-contentss)
+* [`head`, `tail`, `more`, `less` - viewing options](#view-with-head-tail-more-less)
+* [`cp` - copy](#cp-or-copy-files)
+* [`mv` - move](#mv-or-move-file-to-a-new-name-rename)
+* [`rm` - remove](#rm-or-remove-a-file)
+* [`touch` - create a file](#create-an-empty-file-with-touch)
 
 ## Setup: Preparing Your Tutorial Workspace
 
