@@ -44,7 +44,8 @@ Each topic in this tutorial is contained in its own Markdown file for easy navig
 | [**04-ood-files.md**](./04-ood-files.md) | Using Open OnDemand’s file explorer |
 | [**05-file-transfer.md**](./05-file-transfer.md) | Transferring files with `scp` and Globus |
 | [**06-basic-commands.md**](./06-basic-commands.md) | Essential Linux commands for daily use |
-| [**07-task.md**](./07-task.md) | Hands-on task combining multiple skills |
+| [**07-filtering.md**](./07-filtering.md) | Commands for data and text wrangling |
+| [**08-task.md**](./08-task.md) | Hands-on task combining multiple skills |
 
 ## Scope Notes: Klone vs. Tillicum
 
