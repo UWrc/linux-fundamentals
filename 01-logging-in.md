@@ -77,7 +77,7 @@ You do not need Tillicum access to complete this tutorial, but many of the conce
 > 
 > **3. Network Issues (On Campus)**
 >
-> If you are connecting from campus, make sure you are using the **`eduroam`** wireless network.
+> If you are connecting from campus, make sure you are using the [**`eduroam`**](https://uwconnect.uw.edu/it?id=kb_article_view&sysparm_article=KB0034255#howtouse) wireless network.
 >
 > * The **“University of Washington”** network is known to be less stable for SSH connections
 > * Switching to **eduroam** often resolves intermittent login failures
