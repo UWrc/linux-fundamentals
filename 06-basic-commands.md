@@ -52,11 +52,6 @@ unzip shell-lesson-data.zip
 
 `ls` should show a unzipped version of the shell-lesson-data directory as well as the zipped version.
 
-```bash
-shell-lesson-data
-shell-lesson-data.zip
-```
-
 Change directory to go into shell-lesson-data/exercise-data/writing/
 
 ```bash
@@ -125,13 +120,13 @@ Let's go back to `shell-lesson-data/exercise-data/writing` and practice making a
 cd shell-lesson-data/exercise-data/writing
 ```
 
-Make a directory called thesis
+Make a directory called "thesis"
 
 ```bash
 mkdir thesis
 ```
 
-Note that `mkdir` is not limited to creating single directories one at a time. The `-p` option allows `mkdir` to create a directory with nested subdirectories in a single operation:
+Note that `mkdir` is not limited to creating single directories one at a time. The `-p` option for "path" allows `mkdir` to create a directory with nested subdirectories in a single operation:
 
 ```bash
 # make a directory called project with subdirectories data and results
