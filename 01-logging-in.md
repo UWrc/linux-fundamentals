@@ -5,7 +5,7 @@ This section walks you through logging in to Hyak using the command line and int
 Hyak has multiple systems, and the login process differs slightly between **Klone** and **Tillicum**. This tutorial is focused on **Klone**, with Tillicum-specific notes included where relevant.
 
 If you have not yet set up your account, 2FA, or an SSH client, please review the  
-[**Prerequisites section in the README**](./README.md#prerequisites) before continuing.
+[**Prerequisites section**](./00-prereqs.md) before continuing.
 
 ## Logging in to Klone
 
