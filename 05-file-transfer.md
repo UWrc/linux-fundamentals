@@ -23,7 +23,7 @@ Replace `UWNetID` with your UW NetID in both the login and path.
 ### Download files from Klone to your local computer
 
 ```bash
-scp UWNetID@klone.hyak.uw.edu:/gscratch/scrubbed/UWNetID/linux-fundamentals/example.sh .
+scp UWNetID@klone.hyak.uw.edu:/gscratch/scrubbed/UWNetID/linux-fundamentals/slide_deck_linux_fundamentals.pdf .
 ```
 The `.` at the end of the command tells `scp` to place the files in your current working directory or "here."
 
@@ -69,12 +69,12 @@ Here we will demonstrate data transfers with Globus on Hyak Klone. [Equivalent G
 
 The directory `/mmfs1` will be the default path when you connect.
 
-5. Navigate to your working directory by selecting `/mmfs1/` by double clicking it, then selecting `scubbed/`, then your working directory, which should be you UWNetID, and then the git hub repository directory `linux-fundamentals/`. 
+5. Navigate to your working directory by selecting `/mmfs1/` by double clicking it, then selecting `gscratch/` and later `scrubbed/`, then your working directory, which should be you UWNetID, and then the git hub repository directory `linux-fundamentals/`. 
 
 ![Screenshot showing the git hub repository directory and the Klone path on Globus.](/img/globus_path.png 'path')
 *Screenshot showing the git hub repository directory and the Klone path on Globus.*
 
-This navigation can also be done by typing the path into the Path field, `/gpfs/scrubbed/UWNetID/tillicum-onboarding` after replacing the word UWNetID with your UW NetID. 
+This navigation can also be done by typing the path into the Path field, `/mmfs1/gscratch/scrubbed/UWNetID/linux-fundamentals` after replacing the word UWNetID with your UW NetID. 
 
 ## Set Up Your Local Endpoint
 
