@@ -1,6 +1,6 @@
 # Linux Fundamentals on Hyak (Klone & Tillicum)
 
-Welcome to the **Linux Fundamentals Tutorial** for Hyak — a hands-on introduction to working on UW Research Computing systems using the Linux command line.
+Welcome to the **Linux Fundamentals Tutorial** for Hyak, a hands-on introduction to working on UW Research Computing systems using the Linux command line.
 
 This tutorial is designed for **new or early-stage Hyak users** who are developing core Linux skills needed to work effectively on the Klone cluster. Where applicable, differences for **Tillicum** are noted explicitly so users who work across both systems can build transferable skills.
 
@@ -8,7 +8,7 @@ The materials in this repository are intentionally practical and task-oriented, 
 
 ## Goals & Rationale
 
-Many Hyak users arrive with strong research backgrounds but limited experience with Linux or high-performance computing environments. While Hyak documentation covers many tools and services in depth, it can be difficult for new users to know where to start.
+Many Hyak users arrive with strong research backgrounds but limited experience with Linux or high-performance computing environments. While [**Hyak Documentation**](https://hyak.uw.edu/docs/) covers many tools and services in depth, it can be difficult for new users to know where to start.
 
 The goal of this tutorial is to:
 
@@ -60,6 +60,8 @@ An optional introduction video accompanies this tutorial and provides a high-lev
 
 *Linux Fundamentals on Hyak*  - Video coming soon. 
 
+[**Slide Deck**](./slide_deck_linux_fundamentals.pdf) from live tutorial on January 22, 2026. 
+
 ## Acknowledgements
 
 Some concepts and exercises in this tutorial are inspired by  
@@ -85,6 +87,11 @@ After completing this tutorial or attending a related workshop, please share you
     * [**Hyak Klone Slurm**](https://youtu.be/jgHXB7IfGPQ?si=0lFpU_ujrQoUUmyb)
 * [**Hyak Documentation**](https://hyak.uw.edu/docs/)
 * [**Tillicum Documentation**](https://hyak.uw.edu/docs/tillicum/)
+* [**Tillicum Tutorials Series**](https://hyak.uw.edu/learn)
+   * [**Tillicum Onboarding Tutorial**](https://github.com/UWrc/tillicum-onboarding)
+   * [**Tillicum Slurm Tutorial**](https://github.com/UWrc/tillicum-slurm)
+   * [**Tillicum Containers Tutorial**](https://github.com/UWrc/tillicum-containers) 
+   * [**Fine-tuning LLMs on Tillicum**](https://github.com/josecols/ft-llms-tillicum)
 * [**Open OnDemand**](https://hyak.uw.edu/docs/ood/start)
 * [**Globus on Hyak**](https://hyak.uw.edu/docs/storage/globus)
 * [**Software Carpentry: The Unix Shell**](https://swcarpentry.github.io/shell-novice/index.html)
