@@ -7,7 +7,7 @@ Before starting this tutorial, you should have the following in place:
 * Two-factor authentication (2FA) enabled  
 * Access to an SSH client on your local computer  
 
-If you do not yet have a Hyak account, you can request temporary access for training purposes by completing  
+If you do not yet have a Hyak account, you can request access for training purposes by completing  
 [**this form for a Klone demonstration account**](https://uwconnect.uw.edu/sp?id=sc_cat_item&sys_id=f5caba8fdbe108101ba12968489619e0).
 
 Students should apply for a `stf` account (**Student Technology Fee**) which are managed by the [**Research Computing Club**](https://depts.washington.edu/uwrcc/). Students can use STF-funded CPU and GPU resources with priority, on-demand (queue times vary). [**Apply now for your `stf` account**](https://depts.washington.edu/uwrcc/hyak_access/). 
