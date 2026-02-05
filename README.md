@@ -58,7 +58,7 @@ Where workflows or commands differ on **Tillicum**, those differences are clearl
 
 An optional introduction video accompanies this tutorial and provides a high-level walkthrough of the concepts covered:
 
-[January 22, 2026 Linux Command Line Fundamentals Workshop](https://youtu.be/f45R7z-k68I) full recorded session. 
+[**January 22, 2026 Linux Command Line Fundamentals Workshop**](https://youtu.be/f45R7z-k68I) full recorded session. 
 
 [**Slide Deck**](./slide_deck_linux_fundamentals.pdf) from live tutorial on January 22, 2026. 
 
