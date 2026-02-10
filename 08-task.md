@@ -116,3 +116,5 @@ Exit the interactive job:
 ```bash
 exit
 ```
+
+You've completed our tutorials! Stay tuned for additional content or return to the main menu [here](./README.md).

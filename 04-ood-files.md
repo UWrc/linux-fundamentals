@@ -65,3 +65,4 @@ From the F5 Access menu, select Manage VPN Configurations:
 
 If you encounter issues connecting to the VPN, send an email to **<ins>help@uw.edu</ins>**. 
 
+Continue to **[05-file-transfer.md](./05-file-transfer.md)** to learn how to transfer files to and from Hyak.
