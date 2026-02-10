@@ -107,3 +107,5 @@ You may also specify a path or group name to narrow the report.
 > du -h -d 1
 > ```
 > This command reports disk usage in **real time** for the current directory and is often more useful than quota tools during cleanup.
+
+Continue to **[04-ood-files.md](./04-ood-files.md)** to learn about a graphical alternative to the command line.

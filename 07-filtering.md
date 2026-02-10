@@ -341,3 +341,6 @@ grep "searching" $(find . -name "*.txt")
 ```
 
 The output shows the file location and the lines with the word "searching".
+
+Continue to **[08-task.md](./08-task.md)** to learn about job scheduling via SLURM.
+

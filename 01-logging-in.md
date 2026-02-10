@@ -170,3 +170,5 @@ hostname
 ```
 
 This prints the name of the login node you’re connected to (for example, `klone-login01`).
+
+Continue to **[02-filesystem.md](./02-filesystem.md)** to learn about the file system on Klone.
