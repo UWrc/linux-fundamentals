@@ -332,14 +332,6 @@ touch file1.txt file2.txt file3.txt
 ls # make sure the .txt files were created
 ```
 
-#### `touch` is also useful for updating the timestamp of a file
-
-``` bash
-ls -l file1.txt # -l will list the current timestamp of a file
-touch file1.txt # touch will update the timestamp
-ls -l file1.txt # -l will list the current timestamp of a file
-```
-
 Continue to **[07-filtering.md](./07-filtering.md)** to learn more command line tools for working with files and text.
 
 
