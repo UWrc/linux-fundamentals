@@ -36,7 +36,7 @@ Recent versions of Windows include native SSH support via:
 * **Windows Subsystem for Linux (WSL)** 
 
 Alternative SSH clients commonly used on Windows include:
-* [**PuTTY**](https://www.putty.org/)
+* [**PuTTY**](https://apps.microsoft.com/detail/xpfnzksklbp7rj?hl=en-US&gl=US)
 * [**Git Bash**](https://carpentries.github.io/workshop-template/install_instructions/#shell) (includes a Bash shell and SSH)
 
 You only need **one** SSH client installed to complete this tutorial.
